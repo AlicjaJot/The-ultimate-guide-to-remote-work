@@ -4,6 +4,8 @@ layout: home
 nav_order: 1
 ---
 
+# Czym jest Karta Polaka?
+
 ![Biało-czerwona flaga na tle nieba](<flaga na tle nieba.jpg>)
 
 Karta Polaka jest dokumentem potwierdzającym przynależność do Narodu Polskiego. Nie może jednak zostać wydana osobom, które posiadają obywatelstwo polskie – prawo do zdobycia Karty Polaka mają inne osoby, w pewnym stopniu z Polską związane. Otrzymania Karty Polaka nie wolno utożsamiać z nabyciem obywatelstwa polskiego, ani uzyskaniem pozwolenia na pobyt stały w naszym kraju.

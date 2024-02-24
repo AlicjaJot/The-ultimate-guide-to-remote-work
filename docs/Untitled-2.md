@@ -4,6 +4,8 @@ layout: default
 nav_order: 3
 ---
 
+# Co daje Karta Polaka?
+
 Posiadacz Karty Polaka posiada pierwszeństwo w rozpatrywaniu jego sprawy o przyznanie świadczenia pieniężnego udzielanego w ramach pomocy dla Polaków pozostających za granicą.
 
 Osoba ta zyskuje prawo do podejmowania kształcenia na zasadach obowiązujących również Polaków, ale nie traci możliwości ubiegania się o stypendia i inne zapomogi pieniężne związane z edukacją i przeznaczone dla cudzoziemców.
@@ -12,6 +14,7 @@ Cudzoziemiec, który po otrzymaniu Karty Polaka postanowi zamieszkać w naszym k
 
 Wysokość takiej zapomogi jest następująca:
 
-Pierwsze 3 miesiące – 50% stawki wynagrodzenia minimalnego obowiązującej w dniu złożenia wniosku o zapomogę,
+Pierwsze 3 miesiące – 50% stawki wynagrodzenia minimalnego obowiązującej w dniu złożenia wniosku o zapomogę.
 Od 4. do 9. miesiąca – 60% obecnej stawki wynagrodzenia minimalnego.
+
 Otrzymanie świadczenia pieniężnego opisanego wyżej wiąże się z uzyskaniem przez cudzoziemca pozwolenia na pobyt stały na terytorium kraju.
