@@ -1,7 +1,7 @@
 ---
 title: Czym jest Karta Polaka?
 layout: default
-nav-order: 3
+nav_order: 3
 ---
 
 Karta Polaka — co to takiego?
