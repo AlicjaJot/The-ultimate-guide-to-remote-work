@@ -1,12 +1,7 @@
 ---
-title: Czym jest Karta Polaka?
+title: Ustawa o Karcie Polaka
 layout: default
-nav_order: 3
+nav_order: 2
 ---
 
-Karta Polaka — co to takiego?
-
-![Biało-czerwona flaga na tle nieba](<flaga na tle nieba.jpg>)
-
-Karta Polaka jest dokumentem potwierdzającym przynależność do Narodu Polskiego. Nie może jednak zostać wydana osobom, które posiadają obywatelstwo polskie – prawo do posiadania karty Polaka mają inne osoby, w pewnym stopniu z Polską związane. O jakich mowa? O tym przeczytasz niżej.
-
+Ustawa o Karcie Polaka to dokument z dnia 7 września 2007 r. Określa on m.in. wymagania dotyczące ubiegania się o Kartę Polaka i przywileje, które uzyskuje jej posiadacz. Informuje także, kiedy stosowny organ władz ma prawo do unieważnienia karty lub odmowy jej wydania. Innym aktem prawnym, związanym z przepisami dotyczącymi Karty Polaka, jest Ustawa z dnia 25 czerwca 2015 r. – Prawo konsularne.
