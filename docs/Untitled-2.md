@@ -14,7 +14,7 @@ Cudzoziemiec, który po otrzymaniu Karty Polaka postanowi zamieszkać w naszym k
 
 Wysokość takiej zapomogi jest następująca:
 
-Pierwsze 3 miesiące – 50% stawki wynagrodzenia minimalnego obowiązującej w dniu złożenia wniosku o zapomogę.
-Od 4. do 9. miesiąca – 60% obecnej stawki wynagrodzenia minimalnego.
+- Pierwsze 3 miesiące – 50% stawki wynagrodzenia minimalnego obowiązującej w dniu złożenia wniosku o zapomogę.
+- Od 4. do 9. miesiąca – 60% obecnej stawki wynagrodzenia minimalnego.
 
 Otrzymanie świadczenia pieniężnego opisanego wyżej wiąże się z uzyskaniem przez cudzoziemca pozwolenia na pobyt stały na terytorium kraju.
